@@ -1,0 +1,22 @@
+h1 {
+  margin: 0;
+  padding: 10px;
+}
+
+hr {
+  margin: 0;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 13fr 7fr;
+  gap: 0;
+  height: 100vh;
+  padding: 15px;
+}
+main .result-area {
+  padding: 30px;
+}
+main form {
+  padding: 30px;
+}/*# sourceMappingURL=style.css.map */

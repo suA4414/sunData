@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+h1 {
+    margin: 0;
+    padding: 10px;
+}
+
+hr {
+    margin: 0;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 13fr 7fr;
+    gap: 0;
+    height: 100vh;
+    padding: 15px;
+
+    .result-area {
+        padding: 30px;
+    }
+
+    form {
+        padding: 30px;
+    }
+
+}
